@@ -1,0 +1,8 @@
+Username: test@test.com
+Password: test@123
+
+
+#Instructions
+1. Restore database (MSSQL Server) in "Database" folder
+2. Change connection string in "appsettings.json" file to suit your environment
+3. Set up your project in IIS
